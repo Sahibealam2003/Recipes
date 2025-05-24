@@ -33,7 +33,7 @@ window.addEventListener("load", async (e) => {
 
 function constructRecipes(recipes) {
 
-    console.log(recipes)
+    
     const container = document.getElementById('main-container');
 
     recipes.forEach((recipe) => {
