@@ -105,11 +105,3 @@ Do not include large generated files in PRs. Keep changes focused and well-docum
 ## License
 See the LICENSE file in this repository for license details.
 
----
-
-If you'd like, I can:
-- Add a lightweight CONTRIBUTING.md stub (docs/CONTRIBUTING.md) and a .gitignore
-- Create a small data file (recipes.json) and modify main.js to load data from it
-- Add GitHub Pages instructions and a deploy workflow
-
-Tell me which option you prefer and I’ll create the files and update the README with direct links.
